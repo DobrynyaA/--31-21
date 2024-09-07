@@ -1,0 +1,36 @@
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\appsettings.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.exe
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.deps.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.runtimeconfig.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.pdb
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.csproj.AssemblyReference.cache
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.AssemblyInfoInputs.cache
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.AssemblyInfo.cs
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.csproj.CoreCompileInputs.cache
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.sourcelink.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets\msbuild.Andreev Dobrynya Kt-31-21.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets\msbuild.build.Andreev Dobrynya Kt-31-21.props
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Andreev Dobrynya Kt-31-21.props
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Andreev Dobrynya Kt-31-21.props
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\scopedcss\bundle\Andreev Dobrynya Kt-31-21.styles.css
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev .1C14A05D.Up2Date
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\refint\Andreev Dobrynya Kt-31-21.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.pdb
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.genruntimeconfig.cache
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\ref\Andreev Dobrynya Kt-31-21.dll
