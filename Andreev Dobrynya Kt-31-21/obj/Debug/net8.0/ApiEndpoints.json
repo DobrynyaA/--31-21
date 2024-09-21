@@ -1,48 +1,34 @@
 [
   {
-    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Andreev_Dobrynya_Kt_31_21.WeatherForecast, Andreev Dobrynya Kt-31-21, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.WeatherForecastController",
-    "Method": "AddNewSummary",
-    "RelativePath": "WeatherForecast",
+    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.GroupsController",
+    "Method": "GetGroupByDateAndSpecialityAsync",
+    "RelativePath": "Groups",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "newSummary",
-        "Type": "System.String",
-        "IsRequired": false
+        "Name": "filter",
+        "Type": "Andreev_Dobrynya_Kt_31_21.Filters.GroupsFilter.GroupsFilter",
+        "IsRequired": true
       }
     ],
-    "ReturnTypes": [
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.StudentsController",
+    "Method": "GetStudentsByGroupAsync",
+    "RelativePath": "Students",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
       {
-        "Type": "System.String[]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "filter",
+        "Type": "Andreev_Dobrynya_Kt_31_21.Filters.StudentFilter.StudentGroupFilter",
+        "IsRequired": true
       }
-    ]
+    ],
+    "ReturnTypes": []
   }
 ]

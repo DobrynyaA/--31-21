@@ -3,60 +3,124 @@
   "WorkspaceRootPath": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\groupconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\subjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\subjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\helpers\\columntype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\services\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\services\\isubjectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\serviceextensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\filters\\groupsfilter\\groupsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\filters\\groupsfilter\\groupsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\filters\\studentfilter\\studentgroupfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\filters\\studentfilter\\studentgroupfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\migrations\\20240914095043_reformdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\migrations\\20240914095043_reformdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\migrations\\20240914063956_addhaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\migrations\\20240914063956_addhaskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\migrations\\20240913164850_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\migrations\\20240913164850_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\testconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\database\\configuration\\subjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\database\\configuration\\subjectconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\services\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\andreev dobrynya kt-31-21.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|c:\\users\\dobrynya\\desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\andreev dobrynya kt-31-21\\migrations\\20240920160336_addautoincludeforgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31176E96-2C02-482F-9303-9275F61741F6}|Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj|solutionrelative:andreev dobrynya kt-31-21\\migrations\\20240920160336_addautoincludeforgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +130,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,93 +138,316 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20240913164850_CreateDatabase.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Subject.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T16:48:50.553Z",
+              "WhenOpened": "2024-09-21T08:30:15.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T08:24:25.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowBAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:21:30.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Controllers\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Controllers\\GroupsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:37:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ColumnType.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Helpers\\ColumnType.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Helpers\\ColumnType.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Helpers\\ColumnType.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Helpers\\ColumnType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:20:37.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Services\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IGroupService.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Services\\IGroupService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:21:54.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:45:39.833Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T15:43:44.32Z",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Student.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Student.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T13:03:50.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Group.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:49:26.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Program.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Program.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Program.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:26:24.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.json",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\appsettings.json",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.json",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-13T15:49:57.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\StudentDbContext.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\StudentDbContext.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\StudentDbContext.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\StudentDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:15:57.98Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "GroupConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\GroupConfiguration.cs",
               "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\GroupConfiguration.cs",
               "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\GroupConfiguration.cs",
               "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\GroupConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:15:08.814Z"
+              "WhenOpened": "2024-09-13T14:15:08.814Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T13:02:02.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISubjectService.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\ISubjectService.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Services\\ISubjectService.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\ISubjectService.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Services\\ISubjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:22:27.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Program.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Program.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Program.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:26:24.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\ExamConfiguration.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\ExamConfiguration.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\ExamConfiguration.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\ExamConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:18:27.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240920160336_AddAutoincludeForGroup.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240920160336_AddAutoincludeForGroup.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Migrations\\20240920160336_AddAutoincludeForGroup.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240920160336_AddAutoincludeForGroup.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Migrations\\20240920160336_AddAutoincludeForGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T16:03:36.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "StudentConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\StudentConfiguration.cs",
               "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\StudentConfiguration.cs",
               "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\StudentConfiguration.cs",
               "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\StudentConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T13:53:31.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\ServiceExtensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\ServiceExtensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\ServiceExtensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:52:33.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentGroupFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Filters\\StudentFilter\\StudentGroupFilter.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Filters\\StudentFilter\\StudentGroupFilter.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Filters\\StudentFilter\\StudentGroupFilter.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Filters\\StudentFilter\\StudentGroupFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T12:30:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Filters\\GroupsFilter\\GroupsFilter.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Filters\\GroupsFilter\\GroupsFilter.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Filters\\GroupsFilter\\GroupsFilter.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Filters\\GroupsFilter\\GroupsFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T14:28:01.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240914095043_ReformDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240914095043_ReformDatabase.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Migrations\\20240914095043_ReformDatabase.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240914095043_ReformDatabase.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Migrations\\20240914095043_ReformDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T09:50:43.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240914063956_AddHasKey.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240914063956_AddHasKey.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Migrations\\20240914063956_AddHasKey.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240914063956_AddHasKey.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Migrations\\20240914063956_AddHasKey.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:39:56.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240913164850_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Migrations\\20240913164850_CreateDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:48:50.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIBJwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:24:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SubjectConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T14:19:25.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IExamService.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Services\\IExamService.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\IExamService.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Services\\IExamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:22:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Andreev Dobrynya Kt-31-21.http",
               "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.http",
               "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.http",
@@ -172,67 +459,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\TestConfiguration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:24:03.533Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SubjectConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Database\\Configuration\\SubjectConfiguration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T14:19:25.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Test.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Test.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:02:02.73Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Exam.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Models\\Exam.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T13:02:31.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\WeatherForecast.cs",
-              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\WeatherForecast.cs",
+              "DocumentIndex": 25,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\ITestService.cs",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Services\\ITestService.cs",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Services\\ITestService.cs",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\Services\\ITestService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T09:37:44.805Z"
+              "WhenOpened": "2024-09-14T07:22:41.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\appsettings.Development.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T15:43:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.json",
+              "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\appsettings.json",
+              "RelativeToolTip": "Andreev Dobrynya Kt-31-21\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T15:49:57.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Andreev Dobrynya Kt-31-21.csproj",
               "DocumentMoniker": "C:\\Users\\Dobrynya\\Desktop\\\u0443\u0447\u0435\u0431\u0430\\7 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u041F\u0440\u043E\u0435\u043A\u0442\u043D\u044B\u0439 \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0443\u043C\\\u043B\u04311\\Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj",
               "RelativeDocumentMoniker": "Andreev Dobrynya Kt-31-21\\Andreev Dobrynya Kt-31-21.csproj",

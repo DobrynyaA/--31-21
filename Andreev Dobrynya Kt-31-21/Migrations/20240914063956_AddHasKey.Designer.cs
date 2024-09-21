@@ -3,6 +3,7 @@ using System;
 using Andreev_Dobrynya_Kt_31_21.Database;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -11,9 +12,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace Andreev_Dobrynya_Kt_31_21.Migrations
 {
     [DbContext(typeof(StudentDbContext))]
-    partial class StudentDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240914063956_AddHasKey")]
+    partial class AddHasKey
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -26,72 +29,59 @@ namespace Andreev_Dobrynya_Kt_31_21.Migrations
                 {
                     b.Property<int>("ExamId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int4")
-                        .HasColumnName("exam_id");
+                        .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ExamId"));
 
                     b.Property<DateTime>("ExamDate")
-                        .HasColumnType("timestamp")
-                        .HasColumnName("d_exam_date");
+                        .HasColumnType("timestamp with time zone");
 
                     b.Property<int>("Mark")
-                        .HasColumnType("int4")
-                        .HasColumnName("n_mark_id");
+                        .HasColumnType("integer");
 
                     b.Property<int>("StudentId")
-                        .HasColumnType("int4")
-                        .HasColumnName("student_id");
+                        .HasColumnType("integer");
 
                     b.Property<int>("SubjectId")
-                        .HasColumnType("int4")
-                        .HasColumnName("subject_id");
+                        .HasColumnType("integer");
 
-                    b.HasKey("ExamId")
-                        .HasName("pk_cd_exams_exam_id");
+                    b.HasKey("ExamId");
 
                     b.HasIndex("StudentId");
 
                     b.HasIndex("SubjectId");
 
-                    b.HasIndex(new[] { "Mark" }, "idx_cd_exams_fk_f_group_id");
-
-                    b.ToTable("cd_exams", (string)null);
+                    b.ToTable("Exams", (string)null);
                 });
 
             modelBuilder.Entity("Andreev_Dobrynya_Kt_31_21.Models.Group", b =>
                 {
                     b.Property<int>("GroupId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int4")
-                        .HasColumnName("group_id");
+                        .HasColumnType("integer")
+                        .HasColumnName("GroupId");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("GroupId"));
 
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("timestamp")
-                        .HasColumnName("d_creation_date");
+                    b.Property<DateOnly>("Date")
+                        .HasColumnType("date")
+                        .HasColumnName("CreationDate");
 
                     b.Property<string>("GroupName")
                         .IsRequired()
                         .HasMaxLength(100)
-                        .HasColumnType("varchar")
-                        .HasColumnName("c_group_name");
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("GroupName");
 
                     b.Property<string>("Speciality")
                         .IsRequired()
                         .HasMaxLength(100)
-                        .HasColumnType("varchar")
-                        .HasColumnName("c_speciality");
+                        .HasColumnType("character varying(100)")
+                        .HasColumnName("Speciality");
 
-                    b.HasKey("GroupId")
-                        .HasName("pk_cd_groups_group_id");
+                    b.HasKey("GroupId");
 
-                    b.HasIndex(new[] { "Speciality" }, "idx_cd_groups_fk_c_speciality");
-
-                    b.HasIndex(new[] { "Date" }, "idx_cd_groups_fk_d_creation_date");
-
-                    b.ToTable("cd_groups", (string)null);
+                    b.ToTable("Groups", (string)null);
                 });
 
             modelBuilder.Entity("Andreev_Dobrynya_Kt_31_21.Models.Student", b =>
@@ -107,30 +97,25 @@ namespace Andreev_Dobrynya_Kt_31_21.Migrations
                     b.Property<string>("FirstName")
                         .IsRequired()
                         .HasMaxLength(50)
-                        .HasColumnType("varchar")
-                        .HasColumnName("c_first_name")
-                        .HasComment("Имя студента");
+                        .HasColumnType("character varying(50)")
+                        .HasColumnName("first_name");
 
                     b.Property<int>("GroupId")
-                        .HasColumnType("int4")
-                        .HasColumnName("group_id");
+                        .HasColumnType("integer");
 
                     b.Property<string>("LastName")
                         .IsRequired()
                         .HasMaxLength(50)
-                        .HasColumnType("varchar")
-                        .HasColumnName("c_last_name")
-                        .HasComment("Отчество студента");
+                        .HasColumnType("character varying(50)")
+                        .HasColumnName("last_name");
 
                     b.Property<string>("MiddleName")
                         .IsRequired()
                         .HasMaxLength(50)
-                        .HasColumnType("varchar")
-                        .HasColumnName("c_middle_name")
-                        .HasComment("Фамилия Студента");
+                        .HasColumnType("character varying(50)")
+                        .HasColumnName("middle_name");
 
-                    b.HasKey("StudentId")
-                        .HasName("pk_cd_student_student_id");
+                    b.HasKey("StudentId");
 
                     b.HasIndex(new[] { "GroupId" }, "idx_cd_student_fk_f_group_id");
 
@@ -147,53 +132,41 @@ namespace Andreev_Dobrynya_Kt_31_21.Migrations
 
                     b.Property<string>("SubjectName")
                         .IsRequired()
-                        .HasColumnType("varchar")
+                        .HasColumnType("text")
                         .HasColumnName("SubjectName");
 
-                    b.HasKey("SubjectId")
-                        .HasName("pk_cd_subject_subject_id");
+                    b.HasKey("SubjectId");
 
-                    b.HasIndex(new[] { "SubjectName" }, "idx_cd_subject_fk_c_subject_id");
-
-                    b.ToTable("cd_subject", (string)null);
+                    b.ToTable("Subjects", (string)null);
                 });
 
             modelBuilder.Entity("Andreev_Dobrynya_Kt_31_21.Models.Test", b =>
                 {
                     b.Property<int>("TestId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("integer")
-                        .HasColumnName("test_id");
+                        .HasColumnType("integer");
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("TestId"));
 
                     b.Property<int>("StudentId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer")
-                        .HasColumnName("student_id");
+                        .HasColumnType("integer");
 
                     b.Property<int>("SubjectId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("integer")
-                        .HasColumnName("subject_id");
+                        .HasColumnType("integer");
 
                     b.Property<DateTime>("TestDate")
                         .HasColumnType("timestamp with time zone");
 
                     b.Property<bool>("isPassed")
-                        .HasColumnType("bool")
-                        .HasColumnName("b_is_passed");
+                        .HasColumnType("boolean");
 
-                    b.HasKey("TestId")
-                        .HasName("pk_cd_tests_test_id");
+                    b.HasKey("TestId");
 
                     b.HasIndex("StudentId");
 
                     b.HasIndex("SubjectId");
 
-                    b.HasIndex(new[] { "isPassed" }, "idx_cd_tests_fk_b_is_passed");
-
-                    b.ToTable("cd_tests", (string)null);
+                    b.ToTable("Tests", (string)null);
                 });
 
             modelBuilder.Entity("Andreev_Dobrynya_Kt_31_21.Models.Exam", b =>

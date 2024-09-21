@@ -1,5 +1,6 @@
 ﻿namespace Andreev_Dobrynya_Kt_31_21.Models
 {
+	using Microsoft.AspNetCore.Mvc.NewtonsoftJson;
 	public class Student
 	{
 		public int StudentId { get; set; }

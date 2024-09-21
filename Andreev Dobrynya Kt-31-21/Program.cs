@@ -1,7 +1,9 @@
 using Andreev_Dobrynya_Kt_31_21.Database;
+using Andreev_Dobrynya_Kt_31_21.ServiceExtensions;
 using Microsoft.EntityFrameworkCore;
 using NLog;
 using NLog.Web;
+using System.Text.Json.Serialization;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,6 +22,13 @@ try
 
 	builder.Services.AddDbContext<StudentDbContext>(option =>
 		option.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+	builder.Services.AddServices();
+
+	builder.Services.AddControllersWithViews()
+				.AddNewtonsoftJson(options =>
+				options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore
+			);
 
 	var app = builder.Build();
 
