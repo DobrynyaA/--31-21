@@ -9,6 +9,7 @@ namespace Andreev_Dobrynya_Kt_31_21.ServiceExtensions
 		{
 			services.AddScoped<IStudentService, StudentService>();
 			services.AddScoped<IGroupService, GroupsService>();
+			services.AddScoped<IExamService, ExamsService>();
 			return services;
 		}
 	}

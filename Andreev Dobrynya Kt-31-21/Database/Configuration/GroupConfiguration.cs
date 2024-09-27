@@ -41,11 +41,6 @@ namespace Andreev_Dobrynya_Kt_31_21.Database.Configuration
 				.HasMaxLength(100) 
 				.IsRequired(); 
 
-			builder.HasMany(g => g.Students)
-				.WithOne(s => s.Group) 
-				.HasForeignKey(s => s.GroupId) 
-				.OnDelete(DeleteBehavior.Cascade);
-
 			builder.Navigation(p => p.Students)
 				.AutoInclude();
 

@@ -25,7 +25,7 @@ namespace Andreev_Dobrynya_Kt_31_21.Database.Configuration
 				.OnDelete(DeleteBehavior.Restrict);
 
 			builder.Property(t => t.SubjectId)
-				.HasColumnName("subject_id")
+				.HasColumnName("f_subject_id")
 				.ValueGeneratedOnAdd();
 
 			builder.HasOne(t => t.Student)
@@ -34,7 +34,7 @@ namespace Andreev_Dobrynya_Kt_31_21.Database.Configuration
 				.OnDelete(DeleteBehavior.Cascade);
 
 			builder.Property(t => t.StudentId)
-				.HasColumnName("student_id")
+				.HasColumnName("f_student_id")
 				.ValueGeneratedOnAdd();
 
 			builder.Property(t => t.isPassed)

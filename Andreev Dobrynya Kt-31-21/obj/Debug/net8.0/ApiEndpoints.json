@@ -1,5 +1,53 @@
 [
   {
+    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.ExamsController",
+    "Method": "GetAverageMarkBySubjectInGroupAsync",
+    "RelativePath": "Exams/GetAverageMarkBySubjectInGroup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Andreev_Dobrynya_Kt_31_21.Filters.GroupsFilter.GroupsFilter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.ExamsController",
+    "Method": "GetStudentMarkInSubjectAsync",
+    "RelativePath": "Exams/GetStudentMarkInSubject",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Andreev_Dobrynya_Kt_31_21.Filters.ExamFilter.ExamFilterForStudent",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.ExamsController",
+    "Method": "GetYearlyAverageMarkAsync",
+    "RelativePath": "Exams/GetYearlyAverageMark",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filter",
+        "Type": "Andreev_Dobrynya_Kt_31_21.Filters.ExamFilter.ExamFilterForYearAvg",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Andreev_Dobrynya_Kt_31_21.Controllers.GroupsController",
     "Method": "GetGroupByDateAndSpecialityAsync",
     "RelativePath": "Groups",

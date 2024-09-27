@@ -29,7 +29,7 @@ namespace Andreev_Dobrynya_Kt_31_21.Database.Configuration
 				.OnDelete(DeleteBehavior.Restrict);
 
 			builder.Property(g => g.SubjectId)
-				.HasColumnName("subject_id")
+				.HasColumnName("f_subject_id")
 				.HasColumnType(ColumnType.Int)
 				.IsRequired();
 
@@ -39,7 +39,7 @@ namespace Andreev_Dobrynya_Kt_31_21.Database.Configuration
 				.OnDelete(DeleteBehavior.Cascade);
 
 			builder.Property(g => g.StudentId)
-				.HasColumnName("student_id")
+				.HasColumnName("f_student_id")
 				.HasColumnType(ColumnType.Int)
 				.IsRequired();
 

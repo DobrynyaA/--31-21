@@ -6,6 +6,8 @@ C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный пра�
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Andreev Dobrynya Kt-31-21.pdb
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -18,6 +20,8 @@ C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный пра�
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.Extensions.Logging.dll
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\NLog.Web.AspNetCore.dll
@@ -107,7 +111,3 @@ C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный пра�
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.pdb
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\Andreev Dobrynya Kt-31-21.genruntimeconfig.cache
 C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\obj\Debug\net8.0\ref\Andreev Dobrynya Kt-31-21.dll
-C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Newtonsoft.Json.dll
-C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
-C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
-C:\Users\Dobrynya\Desktop\учеба\7 семестр\Проектный практикум\лб1\Andreev Dobrynya Kt-31-21\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
